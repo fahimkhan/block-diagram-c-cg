@@ -1,0 +1,29 @@
+ <bloc>
+<blocName>Ramp</blocName>
+<contentCSourceCode>
+// the source code ;
+// on multiple lines ;
+return ;
+</contentCSourceCode>
+<inputs>
+  <input>
+   <inputName>PremierInput</inputName>
+   <inputType>PremierInputType</inputType>
+  </input>
+  <input>
+   <inputName>DeuxiemeInput</inputName>
+   <inputType>DeuxiemeInputType</inputType>
+  </input>
+</inputs>
+
+<person>
+  <first>Bill</first>
+  <last>Gates</last>
+  <age>46</age>
+</person>
+<person>
+  <first>Steve</first>
+  <last>Jobs</last>
+  <age>40</age>
+</person>
+</bloc>
