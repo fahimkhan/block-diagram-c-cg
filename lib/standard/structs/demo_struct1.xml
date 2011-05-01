@@ -1,0 +1,8 @@
+<struct>
+ <name>demo_struct1</name>
+ <int>a</int>
+ <int>b</int>
+ <float>c</float>
+ <double>d</double>
+</struct>
+
